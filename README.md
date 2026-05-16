@@ -36,11 +36,11 @@
  
 | Login Page | Notes Workspace | AI Summary Panel |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Notes](screenshots/notes.png) | ![AI](screenshots/ai.png) |
+| ![Login](assets/Login.png) | ![Notes](assets/Notes.png) | ![AI](assets/AI%20Summary.png) |
  
 | Note Editor | Public Share | Dashboard |
 |---|---|---|
-| ![Editor](screenshots/editor.png) | ![Share](screenshots/share.png) | ![Dashboard](screenshots/dashboard.png) |
+
  
 ---
  
