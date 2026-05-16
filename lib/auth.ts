@@ -6,7 +6,7 @@ const SECRET = new TextEncoder().encode(
   process.env.JWT_SECRET || 'dev-secret-please-change-in-production'
 );
 
-export interface JwtPayload {
+export interface JwtPayload extends Record<string, unknown> {
   sub: string; // user id
   email: string;
   name: string;
