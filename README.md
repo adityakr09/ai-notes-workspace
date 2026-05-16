@@ -4,6 +4,9 @@
 <img src="https://img.shields.io/badge/Groq-AI-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLite-Database-lightblue?style=for-the-badge&logo=sqlite" />
 <img src="https://img.shields.io/badge/TailwindCSS-3-38bdf8?style=for-the-badge&logo=tailwindcss" />
+
+ <br>
+ 
 # 📝 AI Notes Workspace
  
 ### *A collaborative, AI-powered notes workspace — built full-stack*
